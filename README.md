@@ -20,8 +20,7 @@ Você pode me encontrar nos 👉🏻 [meus links](https://linktr.ee/devrhakramer
 [![](https://img.shields.io/badge/-INSTAGRAM-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/devrhakramer)](https://www.instagram.com/devrhakramer) 
 [![](https://img.shields.io/badge/-YOUTUBE-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/@devrhakramer)](https://www.youtube.com/@devrhakramer)
 [![](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rhayssakramer)](https://www.linkedin.com/in/rhayssakramer)
-[![]
-(https://img.shields.io/badge/-DISCORD-006bed?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/atkKBZnW)](https://discord.gg/atkKBZnW)
+[![](https://img.shields.io/badge/-DISCORD-006bed?style=flat-square&logo=Discord&logoColor=white&link=https://discord.gg/atkKBZnW)](https://discord.gg/atkKBZnW)
 [![](https://img.shields.io/badge/-FACEBOOK-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/devrhakramer)](https://www.facebook.com/devrhakramer)
 [![](https://img.shields.io/badge/-GMAIL-gray?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rhayssakramer@gmail.com)](https://mailto:devrhakramer@gmail.com)
 
